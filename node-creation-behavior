@@ -1,0 +1,48 @@
+# plus some fantasy ideas / backburner junk
+
+svg.append("g")
+.selectAll("circle")
+.data(network_data.nodez)
+.enter()
+.append("circle")
+.attr("r",8)
+.attr("fill","pink")
+.attr("class","nodes_class elements_class")
+.attr("cx", d=>d.x)
+.attr("cy", d=>d.y)
+// the following is redundant with, and overpowers
+// .nodes:onclick {
+//   fill: green;
+// }
+// in the CSS
+	
+	.on("mouseover", function(d) {
+d3.select(this).attr("r",50);
+d3.select("body").transition().duration(1200).style("background-color", "gray");
+})
+	
+	.on("mouseout", function(d) {
+d3.select(this).attr("r",8);
+d3.select("body").transition().duration(1200).style("background-color", "white");
+})
+	
+.on('click', function(e,d) {
+	window.open(d.piclink);
+	d3.select(this)
+     .style('fill', 'green');
+  })
+
+//.on('click', function(d) {
+//    d3.select(this)
+//      .style('fill', 'green');
+//  })
+	
+
+
+//.on("mouseout", function(d) {
+ // d3.select(this)
+//	.transition()
+//    .duration(1200)
+    // pic goes away
+// })	
+	
