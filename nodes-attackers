@@ -1,0 +1,13 @@
+# Node ids as well as, currently, placeholder pictures associated with them. Any other external data/documents I want to associate with the nodes will go here as well.
+# This is NOT creating the nodes. That will occur later on. 
+
+{
+	"nodez":
+	[
+	{"id":"n1","piclink":"https://i.picsum.photos/id/1003/1181/1772.jpg?hmac=oN9fHMXiqe9Zq2RM6XT-RVZkojgPnECWwyEF1RvvTZk"},
+	{"id":"n2","piclink":"https://i.picsum.photos/id/100/2500/1656.jpg?hmac=gWyN-7ZB32rkAjMhKXQgdHOIBRHyTSgzuOK6U0vXb1w"},
+  {"id":"n3","piclink":"https://i.picsum.photos/id/1008/5616/3744.jpg?hmac=906z84ml4jhqPMsm4ObF9aZhCRC-t2S_Sy0RLvYWZwY"},
+  {"id":"n4","piclink":"https://i.picsum.photos/id/101/2621/1747.jpg?hmac=cu15YGotS0gIYdBbR1he5NtBLZAAY6aIY5AbORRAngs"},
+  {"id":"n5","piclink":"https://i.picsum.photos/id/1025/4951/3301.jpg?hmac=_aGh5AtoOChip_iaMo8ZvvytfEojcgqbCH7dzaz-H8Y"},
+]
+}
