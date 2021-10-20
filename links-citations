@@ -1,0 +1,8 @@
+# the "z" naming convention in my code for this project is to distinguish my names from things built in to d3. It won't actually cause a collision in my experience, but I see no reason to risk confusing myself while I'm still getting my d3 sea legs.
+
+{	"linkz":[
+{"source":"n1","target":"n3","out":"https://www.amazon.com"}, 
+{"source":"n1","target":"n5","out":"https://www.google.com"},{"source":"n2","target":"n3","out":"https://www.target.com"},{"source":"n3","target":"n4","out":"https://www.paypal.com"}, 
+{"source":"n3","target":"n5","out":"https://www.cvs.com"},{"source":"n2","target":"n5","out":"https://www.skype.com"}
+]
+}
