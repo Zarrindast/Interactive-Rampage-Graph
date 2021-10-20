@@ -1,0 +1,18 @@
+# some items may be redundant with the js (especially event handling) as I experiment with different methods.
+
+
+.links_class:hover {
+    stroke: red;
+		stroke-width: 8px;
+  }
+
+
+.nodes_class:hover {
+    fill: purple;
+		
+  }  
+
+img#imgID {
+    width: 600px;
+    height: 600px;  
+	}
