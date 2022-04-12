@@ -1,0 +1,35 @@
+karl pierson's journal -- "filled with hate, I love it" Eric Harris ref
+CCCP shirt -- Dylan ref?
+
+
+Christopher Harper-Mercer -- Vestor Flanagans
+Adam Lanza -- Richard Farley
+Jesus, Satan
+Marc Lepine -- Denis Lortie
+
+Things that absolutely need to get converted
+-Charles Whitman files: several
+-Dorothy Dutiel Suicide Notes
+-Duane Morrison Suicide Note
+-Eric Hainstock letters
+-James Holmes Notebook
+-Loughner Letters from Pima Comm College
+-Jared Pagett interviews
+-Weise online
+- Barley note .txt
+- Saari youtube profile
+-Slobodian suicide note
+- Myron May writings and resignation letter
+- Randy Stair Journal
+- Randy Stair tape transcriptions... omg =/
+
+General Procedure...
+- scraped everything from Langman, all original docs of all shooters
+- converted the pdfs to txt with:
+- attempted OCR on the files that didn't make it to txt well, using pytesseract
+- used voice transcription for things that failed OCR (later: teach OCR how to read individual handwritings)
+- went back and checked manually that each relevant document had made it to txt somehow
+- search for desired terms, names, etc
+- made a list of external name references (shooters who were not in this list)
+- added school shooters to the list and tracked down files of them (forums)
+- enumerated known copycats (via encyclopedia dramatica, perhaps searching "copycats" on other forums) and gave them links to their forefathers
