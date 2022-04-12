@@ -1,3 +1,5 @@
+// the bars and nodes are sensitive to highlights and clicks
+
 network_data = {
 	"nodez":
 	[
@@ -14,10 +16,10 @@ network_data = {
 ]
 }
 
-var img = new Image();
-img.src = 
-"https://media.geeksforgeeks.org/wp-content/uploads/20190529122828/bs21.png";
-document.getElementById('imgID').appendChild(img);
+//var img = new Image();
+//img.src = 
+//"https://media.geeksforgeeks.org/wp-content/uploads/20190529122828/bs21.png";
+//document.getElementById('imgID').appendChild(img);
 
 // window to see thru to svg
 w = 500
